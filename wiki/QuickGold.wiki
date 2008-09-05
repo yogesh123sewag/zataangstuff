@@ -24,6 +24,6 @@ After you press the home button, and type in a few characters, while on the spri
 Thanks go to: 
   * eric: for the idea
   * natetrue: for his patience in explaining and sharing code
-  * saurik, francis, Optimo, _BigBoss_, WiFone: for their patience answering my stupid doubts
+  * saurik, francis, Optimo, BigBoss, WiFone: for their patience answering my stupid questions
   * Ste: for hosting
   * many others on irc.saurik.com
