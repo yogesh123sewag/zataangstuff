@@ -2,7 +2,7 @@
 
 = Introduction =
 
-QuickGold is a fast, keyboard-based launcher for pwned iPhones. This Quicksilver for the iPhone. 
+QuickGold is a fast, keyboard-based launcher for pwned iPhones. Think Quicksilver for the iPhone. 
 
 = Features =
 
