@@ -1,0 +1,29 @@
+#summary Fast, keyboard-based launcher for jailbroken iPhones
+
+= Introduction =
+
+QuickGold is a fast, keyboard-based launcher for pwned iPhones. This Quicksilver for the iPhone. 
+
+= Features =
+
+Press the home (menu) button while you are on the SpringBoard to bring up a search bar and a keyboard. Type a few characters and tap to: 
+
+  * launch springboard apps (and webclips) 
+  * search contacts and dial their numbers with a tap
+  * type in a phone number in the search box and hit "Go" to call 
+  * type in something like "yahoo.com" and hit "Go" to visit the page
+
+= Screenshot =
+
+After you press the home button, and type in a few characters, while on the springboard: 
+
+[http://repo.smxy.org/cydia/info/quickgold/screenshot1.jpg]
+
+= Credits = 
+
+Thanks go to: 
+  * eric: for the idea
+  * natetrue: for his patience in explaining and sharing code
+  * saurik, francis, Optimo, _BigBoss_, WiFone: for their patience answering my stupid doubts
+  * Ste: for hosting
+  * many others on irc.saurik.com
