@@ -25,6 +25,6 @@ Thanks go to:
   * eric: for the idea
   * natetrue: for his patience in explaining and sharing code
   * steventroughtonsmith: for showing how to get dylib injection going in the simulator
-  * saurik, francis, Optimo, BigBoss, WiFone: for their patience answering my stupid questions
+  * saurik, francis, Optimo, BigBoss, WiFone, ashikase: for their patience answering my stupid questions
   * Ste: for hosting
   * many others on irc.saurik.com
