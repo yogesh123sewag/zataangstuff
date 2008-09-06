@@ -6,7 +6,7 @@ QuickGold is a fast, keyboard-based launcher for pwned iPhones. Think Quicksilve
 
 == Sponsor == 
 
-Buxfer: The best personal finance management tool on the web.
+[http://www.buxfer.com/ Buxfer]: The best personal finance management tool on the web.
 
 [http://www.buxfer.com/ http://www.buxfer.com/media/logos/david/small-thin.png]
 
