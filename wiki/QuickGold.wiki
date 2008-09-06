@@ -4,7 +4,7 @@
 
 QuickGold is a fast, keyboard-based launcher for pwned iPhones. Think Quicksilver for the iPhone. 
 
-== Sponsor == 
+== Check out == 
 
 [http://www.buxfer.com/ Buxfer]: The best personal finance management tool on the web.
 
