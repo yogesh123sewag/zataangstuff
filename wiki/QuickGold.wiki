@@ -12,6 +12,10 @@ _ Alex and Jochen: thanks for your donations, guys. You are awesome!_
 
 Please donate and support the developer for a free and useful tool!
 
+== News == 
+
+Installing / Uninstalling bookmark icons (webclips) on 2.1 will cause SpringBoard to crash if QuickGold is installed. I have reproduced the problem and working on a fix.
+
 == Features ==
 
 Press the home (menu) button while you are on the SpringBoard to bring up a search bar and a keyboard. Type a few characters and tap to: 
