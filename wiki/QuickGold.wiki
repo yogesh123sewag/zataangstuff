@@ -12,7 +12,7 @@ _ Alex and Jochen: thanks for your donations, guys. You are awesome!_
 
 Please donate and support the developer for a free and useful tool!
 
-== [http://abc.com/ http://ezprints.mye-pix.com/images/important.gif] == 
+== [http://abc.com/ http://ezprints.mye-pix.com/images/important.gif] IMPORTANT: PLEASE READ == 
 
 Installing / Uninstalling bookmark icons (webclips) on 2.1 will cause SpringBoard to crash if QuickGold is installed. I have reproduced the problem and working on a fix.
 
