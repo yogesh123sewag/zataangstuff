@@ -1,3 +1,7 @@
 Please leave your suggestions for features you want to see in future versions of QuickGold. 
 
-Zataang
+== Features I have already planned == 
+
+  * search safari bookmarks
+  * search safari history 
+  * allow access to recently used items
