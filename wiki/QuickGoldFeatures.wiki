@@ -5,3 +5,11 @@ Please leave your suggestions for features you want to see in future versions of
   * search safari bookmarks
   * search safari history 
   * allow access to recently used items
+  * "g <keywords>" takes you to google search
+
+=== Features I am worried about, and not likely to implement === 
+
+Mainly, because I want QuickGold to be fast. 
+
+  * Searching music
+  * Searching video
