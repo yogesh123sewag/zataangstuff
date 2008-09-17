@@ -1,6 +1,6 @@
 Please leave your suggestions for features you want to see in future versions of QuickGold. 
 
-== Features I have already planned == 
+=== Features I have already planned === 
 
   * search safari bookmarks
   * search safari history 
