@@ -7,7 +7,7 @@ Please leave your suggestions for features you want to see in future versions of
   * allow access to recently used items
   * "g <keywords>" takes you to google search
 
-=== Features I am worried about, and not likely to implement === 
+==== Features I am worried about, and not likely to implement soon ==== 
 
 Mainly, because I want QuickGold to be fast. 
 
