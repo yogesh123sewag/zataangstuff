@@ -2,12 +2,15 @@
 
 Please leave your suggestions for features you want to see in future versions of QuickGold. 
 
-=== Features I have already planned === 
+=== Features planned ===
+
+This is based both on my thoughts as well as your feedback.
 
   * search safari bookmarks
   * search safari history 
   * allow access to recently used items
   * "g <keywords>" takes you to google search
+  * settings so people can restrict / include what things they want to search for
 
 ==== Features I am worried about, and not likely to implement soon ==== 
 
@@ -15,3 +18,7 @@ Mainly, because I want QuickGold to be fast.
 
   * Searching music
   * Searching video
+
+In general, I think the purpose of QuickGold is to speed-up things that need to be done very very often. For example, app launching, calling people, searching Google, etc. are some of the things almost all people do way too many times on the phone. 
+
+How often do people search for SMSes? or Notes? Or music? I think not very often. But I may be wrong. So, if you have particular use-cases for these as well, let me know. 
