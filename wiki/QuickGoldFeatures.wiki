@@ -6,8 +6,8 @@ Please leave your suggestions for features you want to see in future versions of
 
 This is based both on my thoughts as well as your feedback.
 
-  * search safari bookmarks
-  * search safari history 
+  * ~~search safari bookmarks~~
+  * ~~search safari history~~
   * allow access to recently used items
   * "g <keywords>" takes you to google search
   * settings so people can restrict / include what things they want to search for
