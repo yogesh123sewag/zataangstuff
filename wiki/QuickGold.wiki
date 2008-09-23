@@ -8,7 +8,7 @@ _Update: Version 1.1 has just been released. It's more feature-ful and more beau
 
 == Donate ==
 
-_ Alex, Eugene, Derrick and Jochen: thanks for your donations, guys. You are awesome!_
+_ Alex, Derrick, Eugene, Jochen and Kim: thanks for your donations, guys. You are awesome!_
 
 [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=zataang%2eom%40gmail%2ecom&item_name=Quickgold&no_shipping=0&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8 https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif]
 
