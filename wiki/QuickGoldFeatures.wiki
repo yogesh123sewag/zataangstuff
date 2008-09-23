@@ -10,8 +10,8 @@ This is based both on my thoughts as well as your feedback.
   * ~~search safari history~~
   * ~~search contacts using phone numbers or emails~~
   * ~~send SMS or emails to contacts directly from QuickGold~~
-  * allow access to recently used items
-  * "g <keywords>" takes you to google search
+  * ~~"g <keywords>" takes you to google search, similarly for maps, IMDB and Powerset~~
+  * allow access to recently used items 
   * settings so people can restrict / include what things they want to search for
 
 ==== Features I am worried about, and not likely to implement soon ==== 
