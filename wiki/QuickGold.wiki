@@ -4,7 +4,7 @@
 
 QuickGold is a fast, keyboard-based launcher for pwned iPhones. Think Quicksilver for the iPhone. 
 
-_Update: Version 1.1 has just been released. It's more feature-ful and more beautiful. See the ChangeLog in Cydia for the details. Enjoy! :)_
+_*Update:* I have already fixed the app store springboard crashes, unfortunately the packager for the package (Ste) is not around from the past few hours. Please have some patience, and the update (1.1.1) will get to you as soon as he comes back_
 
 == Donate ==
 
