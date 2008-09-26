@@ -1,6 +1,8 @@
 #summary upcoming features for QuickGold
 
-Please leave your suggestions for features you want to see in future versions of QuickGold. 
+~~Please leave your suggestions for features you want to see in future versions of QuickGold.~~ 
+
+*IMPORTANT NOTE*: Please also list features in the Issues table. Please try to keep it one feature-per issue filed. It gets pretty difficult for me to sort things out from the comments! I will read the issues and just attach labels appropriately to them. Thanks!
 
 === Features planned ===
 
