@@ -25,7 +25,9 @@ Press the home (menu) button while you are on the SpringBoard to bring up a sear
   * type in a phone number in the search box and hit "Go" to call 
   * type in something like "yahoo.com" and hit "Go" to visit the page
 
-For features you want, please leave a comment on the QuickGoldFeatures page.
+~~For features you want, please leave a comment on the QuickGoldFeatures page.~~
+
+Please also list features in the Issues table. Please try to keep it one feature-per issue filed. It gets pretty difficult for me to sort things out from the comments! I will read the issues and just attach labels appropriately to them. Thanks! 
 
 == Screenshot ==
 
