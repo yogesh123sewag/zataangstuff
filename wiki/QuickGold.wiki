@@ -7,6 +7,7 @@ QuickGold is a fast, keyboard-based launcher for pwned iPhones. Think Quicksilve
 == News ==
 
   * *1.2 seems to crash for some people. The culprit seems to be contacts indexing. I am sending out a debug build to some folks, and hopefully I will get this fixed very soon.*
+  * I have made two google groups: quickgold and quickgold-beta-testers. Please join them as appropriate so the discussion is better structured. Also, the more people in beta testers, the merrier :) 
 
 == Features ==
 
@@ -16,10 +17,15 @@ Press the home (menu) button while you are on the SpringBoard to bring up a sear
   * search contacts and dial their numbers with a tap
   * type in a phone number in the search box and hit "Go" to call 
   * type in something like "yahoo.com" and hit "Go" to visit the page
+  * type "g <words>" and search google 
 
 ~~For features you want, please leave a comment on the QuickGoldFeatures page.~~
 
 Please also list features in the Issues table. Please try to keep it one feature-per issue filed. It gets pretty difficult for me to sort things out from the comments! I will read the issues and just attach labels appropriately to them. Thanks! 
+
+== Advertisements == 
+
+I have added ads to support myself. I have made my utmost effort to keep them really unobtrusive. In fact, as soon as you typing anything, both the ads and the keyboard switcher buttons disappear. So it does not it any *real* screen-estate at all. This allows you guys to use this for free, while I spend my time improving QuickGold and trying to make it one indispensable program.
 
 == Screenshot ==
 
