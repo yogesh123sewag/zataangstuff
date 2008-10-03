@@ -7,7 +7,7 @@ QuickGold is a fast, keyboard-based launcher for pwned iPhones. Think Quicksilve
 == News ==
 
   * *1.2 seems to crash for some people. The culprit seems to be contacts indexing. I am sending out a debug build to some folks, and hopefully I will get this fixed very soon.*
-  * I have made two google groups: [quickgold http://groups.google.com/group/quickgold] and quickgold-beta-testers. Please join them as appropriate so the discussion is better structured. Also, the more people in beta testers, the merrier :) 
+  * I have made two google groups: [http://groups.google.com/group/quickgold quickgold] and [http://groups.google.com/group/quickgold-beta-testers quickgold-beta-testers]. Please join them as appropriate so the discussion is better structured. Also, the more people in beta testers, the merrier :) 
 
 == Features ==
 
