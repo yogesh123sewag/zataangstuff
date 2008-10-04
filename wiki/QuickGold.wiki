@@ -6,6 +6,7 @@ QuickGold is a fast, keyboard-based launcher for pwned iPhones. Think Quicksilve
 
 == News ==
 
+  * 1.2.2 is out now. It has less adverts. They will not show up all the time. Only some times. Hope you like it. 
   * *1.2.1 is out now. 1.2 users should immediately upgrade since it fixes a dangerous crash related to indexing of contacts. *
   * Advertisements: I have received all kinds of responses: (1) I don't mind at all, they are done nicely, (2) please provide a pay-for-no-ads option (3) I hate you, go to hell. :)
 
