@@ -7,13 +7,14 @@ QuickGold is a fast, keyboard-based launcher for pwned iPhones. Think Quicksilve
 == News ==
 
 *IMPORTANT*
-
+---------------
 When you select a contact to call, Quickgold locks up on 2.2.
 
 If this happens, please ssh into your device and issue the command 'killall
 SpringBoard' ...
 
 I am working on getting a fix ready now. 
+---------------
 
   * 1.2.2 is out now. It has less adverts. They will not show up all the time. Only some times. Hope you like it. 
   * *1.2.1 is out now. 1.2 users should immediately upgrade since it fixes a dangerous crash related to indexing of contacts. *
